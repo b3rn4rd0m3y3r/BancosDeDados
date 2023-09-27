@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "651220735ca70cc1e0dbc599"
+  },
+  "cod": "101",
+  "descri": "Cento e Um",
+  "preco": "101.00",
+  "tipo": "a"
+},
+{
+  "_id": {
+    "$oid": "651220735ca70cc1e0dbc59a"
+  },
+  "cod": "102",
+  "descri": "Cento e dois",
+  "preco": "102.00",
+  "tipo": "c"
+},
+{
+  "_id": {
+    "$oid": "651220735ca70cc1e0dbc59b"
+  },
+  "cod": "201",
+  "descri": "Vassoura",
+  "preco": "42.00",
+  "tipo": "b"
+},
+{
+  "_id": {
+    "$oid": "651229d95ca70cc1e0dbc59e"
+  },
+  "cod": "301",
+  "descri": "Trento e Um",
+  "preco": "31.00",
+  "tipo": "a"
+},
+{
+  "_id": {
+    "$oid": "651229d95ca70cc1e0dbc59f"
+  },
+  "cod": "302",
+  "descri": "Trento e dois",
+  "preco": "32.00",
+  "tipo": "c"
+},
+{
+  "_id": {
+    "$oid": "651229d95ca70cc1e0dbc5a0"
+  },
+  "cod": "401",
+  "descri": "Pano",
+  "preco": "39.00",
+  "tipo": "b"
+},
+{
+  "_id": {
+    "$oid": "651229d95ca70cc1e0dbc5a1"
+  },
+  "cod": "303",
+  "descri": "Triesto",
+  "preco": "31.00",
+  "tipo": "a"
+},
+{
+  "_id": {
+    "$oid": "651229d95ca70cc1e0dbc5a2"
+  },
+  "cod": "304",
+  "descri": "Tritetra",
+  "preco": "32.00",
+  "tipo": "b"
+},
+{
+  "_id": {
+    "$oid": "651229d95ca70cc1e0dbc5a3"
+  },
+  "cod": "402",
+  "descri": "Detergente",
+  "preco": "39.00",
+  "tipo": "c"
+},
+{
+  "_id": {
+    "$oid": "65122c9a5ca70cc1e0dbc5a4"
+  },
+  "cod": "500",
+  "descri": "quinitem",
+  "preco": "12.00",
+  "tipo": "c"
+}]
