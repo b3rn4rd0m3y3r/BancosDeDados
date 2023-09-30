@@ -2,3 +2,9 @@ wget -qO - https://www.mongodb.org/static/pgp/server-6.0.asc |  gpg --dearmor | 
 echo "deb [ arch=amd64,arm64 signed-by=/usr/share/keyrings/mongodb.gpg ] https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/6.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-6.0.list
 sudo apt update
 sudo apt install mongodb-org
+
+
+COMPASS
+
+wget https://downloads.mongodb.com/compass/mongodb-compass_1.30.1_amd64.deb
+apt install ./mongodb-compass_1.30.1_amd64.deb
